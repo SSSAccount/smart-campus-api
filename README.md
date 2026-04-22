@@ -1,7 +1,12 @@
+
 # Smart Campus REST API
 
 A RESTful API built with Java, JAX-RS (Jersey), and Grizzly HTTP server
 for managing rooms and sensors on a smart campus.
+
+## Video Demo
+
+[![Video demonstration](https://img.youtube.com/vi/aBJncOUL3ww/0.jpg)](https://www.youtube.com/watch?v=aBJncOUL3ww)
 
 ---
 
